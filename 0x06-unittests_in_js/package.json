@@ -4,8 +4,13 @@
   "description": "practice testing in JS for Hlberton School",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "./node_modules/mocha/bin/_mocha"
   },
   "author": "Fady Sabry",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.6.0",
+    "sinon": "^20.0.0"
+  }
 }
