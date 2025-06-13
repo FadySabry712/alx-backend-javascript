@@ -1,4 +1,4 @@
-const calculateNumer = (a, b) => {
+const calculateNumber = (a, b) => {
   return (Math.round(a) + Math.round(b));
 }
 
