@@ -1,0 +1,11 @@
+{
+  "name": "test-frameworks",
+  "version": "1.0.0",
+  "description": "practice testing in JS for Hlberton School",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Fady Sabry",
+  "license": "ISC"
+}
