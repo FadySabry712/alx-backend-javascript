@@ -1,21 +1,17 @@
 {
-  "name": "test-frameworks",
+  "name": "0x06-unittests_in_js",
   "version": "1.0.0",
-  "description": "practice testing in JS for Hlberton School",
-  "main": "index.js",
+  "description": "",
+  "main": "0-calcul.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/_mocha"
   },
+  "keywords": [],
   "author": "Fady Sabry",
   "license": "ISC",
-  "dependencies": {
-    "chai": "^5.2.0",
-    "mocha": "^11.6.0",
-    "sinon": "^20.0.0"
-  },
   "devDependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^6.2.2",
-    "sinon": "^7.5.0"
+    "chai": "^4.5.0",
+    "mocha": "^10.8.2",
+    "sinon": "^15.2.0"
   }
 }
